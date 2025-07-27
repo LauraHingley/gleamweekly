@@ -1,6 +1,6 @@
 # [Gleam Weekly](https://gleamweekly.com/)
 
-Handpicked articles and community news delivered to your inbox in one weekly email.
+Handpicked articles and community news delivered to your inbox in one email.
 
 ## `/mailer`
 
